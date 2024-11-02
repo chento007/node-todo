@@ -1,0 +1,24 @@
+version: '3.1'
+
+services:
+  mongo:
+    image: mongo:latest
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: Saturday@007
+    ports:
+      - "8888:27017"  # Expose MongoDB on a different port for external connections
+    volumes:
+      - mongo_data:/data/db
+
+  mongo-express:
+    image: mongo-express:latest
+    restart: always
+    environment:
+      ME_CONFIG_MONGODB_URL: mongodb://admin:Saturday@007@mongo:27017/  # Full MongoDB connection URL
+    ports:
+      - "1111:8081"  # Expose Mongo Express UI on port 1111
+
+volumes:
+  mongo_data:

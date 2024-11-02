@@ -1,0 +1,1826 @@
+{
+  "users": [
+    {
+      "name": "Alice Johnson",
+      "email": "alice@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723af1",
+      "createdAt": "2024-11-02T14:04:30.170Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723af1"
+    },
+    {
+      "name": "Bob Smith",
+      "email": "bob@gmail.com",
+      "role": "employer",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723af2",
+      "createdAt": "2024-11-02T14:04:30.170Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723af2"
+    },
+    {
+      "name": "Charlie Brown",
+      "email": "charlie@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723af3",
+      "createdAt": "2024-11-02T14:04:30.171Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723af3"
+    },
+    {
+      "name": "David Wilson",
+      "email": "david@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723af4",
+      "createdAt": "2024-11-02T14:04:30.171Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723af4"
+    },
+    {
+      "name": "Eve Adams",
+      "email": "eve@gmail.com",
+      "role": "employer",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723af5",
+      "createdAt": "2024-11-02T14:04:30.171Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723af5"
+    },
+    {
+      "name": "Frank White",
+      "email": "frank@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723af6",
+      "createdAt": "2024-11-02T14:04:30.171Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723af6"
+    },
+    {
+      "name": "Grace Lewis",
+      "email": "grace@gmail.com",
+      "role": "employer",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723af7",
+      "createdAt": "2024-11-02T14:04:30.171Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723af7"
+    },
+    {
+      "name": "Hank Hill",
+      "email": "hank@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723af8",
+      "createdAt": "2024-11-02T14:04:30.172Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723af8"
+    },
+    {
+      "name": "Ivy Scott",
+      "email": "ivy@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723af9",
+      "createdAt": "2024-11-02T14:04:30.172Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723af9"
+    },
+    {
+      "name": "Jack King",
+      "email": "jack@gmail.com",
+      "role": "employer",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723afa",
+      "createdAt": "2024-11-02T14:04:30.172Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723afa"
+    },
+    {
+      "name": "Karen Green",
+      "email": "karen@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723afb",
+      "createdAt": "2024-11-02T14:04:30.172Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723afb"
+    },
+    {
+      "name": "Leo Clark",
+      "email": "leo@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723afc",
+      "createdAt": "2024-11-02T14:04:30.172Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723afc"
+    },
+    {
+      "name": "Mia Young",
+      "email": "mia@gmail.com",
+      "role": "employer",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723afd",
+      "createdAt": "2024-11-02T14:04:30.172Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723afd"
+    },
+    {
+      "name": "Nina Hall",
+      "email": "nina@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723afe",
+      "createdAt": "2024-11-02T14:04:30.173Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723afe"
+    },
+    {
+      "name": "Oscar Turner",
+      "email": "oscar@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723aff",
+      "createdAt": "2024-11-02T14:04:30.173Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723aff"
+    },
+    {
+      "name": "Paul Wright",
+      "email": "paul@gmail.com",
+      "role": "employer",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723b00",
+      "createdAt": "2024-11-02T14:04:30.173Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723b00"
+    },
+    {
+      "name": "Quinn Baker",
+      "email": "quinn@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723b01",
+      "createdAt": "2024-11-02T14:04:30.173Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723b01"
+    },
+    {
+      "name": "Rita Martinez",
+      "email": "rita@gmail.com",
+      "role": "employer",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723b02",
+      "createdAt": "2024-11-02T14:04:30.173Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723b02"
+    },
+    {
+      "name": "Sam Lee",
+      "email": "sam@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723b03",
+      "createdAt": "2024-11-02T14:04:30.173Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723b03"
+    },
+    {
+      "name": "Tina Hernandez",
+      "email": "tina@gmail.com",
+      "role": "user",
+      "password": "password123",
+      "_id": "6726316e209ae77d34723b04",
+      "createdAt": "2024-11-02T14:04:30.173Z",
+      "__v": 0,
+      "id": "6726316e209ae77d34723b04"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723af1"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723af1"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723af1"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723af1"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723af1"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723af2"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723af2"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723af2"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723af2"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723af2"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723af3"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723af3"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723af3"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723af3"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723af3"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723af4"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723af4"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723af4"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723af4"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723af4"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723af5"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723af5"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723af5"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723af5"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723af5"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723af6"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723af6"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723af6"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723af6"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723af6"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723af7"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723af7"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723af7"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723af7"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723af7"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723af8"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723af8"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723af8"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723af8"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723af8"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723af9"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723af9"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723af9"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723af9"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723af9"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723afa"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723afa"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723afa"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723afa"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723afa"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723afb"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723afb"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723afb"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723afb"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723afb"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723afc"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723afc"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723afc"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723afc"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723afc"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723afd"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723afd"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723afd"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723afd"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723afd"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723afe"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723afe"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723afe"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723afe"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723afe"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723aff"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723aff"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723aff"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723aff"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723aff"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723b00"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723b00"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723b00"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723b00"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723b00"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723b01"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723b01"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723b01"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723b01"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723b01"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723b02"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723b02"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723b02"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723b02"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723b02"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723b03"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723b03"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723b03"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723b03"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723b03"
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Develop and maintain software solutions.",
+      "email": "hr@gmail.com",
+      "address": "123 Main St",
+      "company": "Tech Solutions",
+      "industry": [
+        "Information Technology"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 2,
+      "experience": "1 Year - 2 Years",
+      "salary": 80000,
+      "user": "6726316e209ae77d34723b04"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Create marketing strategies to promote products.",
+      "email": "marketing@gmail.com",
+      "address": "456 Oak St",
+      "company": "Marketing Pro",
+      "industry": [
+        "Business",
+        "Telecommunication"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "2 Year - 5 Years",
+      "salary": 60000,
+      "user": "6726316e209ae77d34723b04"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Analyze data to support business decisions.",
+      "email": "data@gmail.com",
+      "address": "789 Pine St",
+      "company": "Data Corp",
+      "industry": [
+        "Banking"
+      ],
+      "jobType": "Temporary",
+      "minEducation": "Masters",
+      "positions": 3,
+      "experience": "No Experience",
+      "salary": 50000,
+      "user": "6726316e209ae77d34723b04"
+    },
+    {
+      "title": "Graphic Designer",
+      "description": "Design graphics for various projects.",
+      "email": "design@gmail.com",
+      "address": "321 Cedar St",
+      "company": "Creative Studio",
+      "industry": [
+        "Education/Training"
+      ],
+      "jobType": "Internship",
+      "minEducation": "Bachelors",
+      "positions": 1,
+      "experience": "1 Year - 2 Years",
+      "salary": 40000,
+      "user": "6726316e209ae77d34723b04"
+    },
+    {
+      "title": "Project Manager",
+      "description": "Manage projects and coordinate teams.",
+      "email": "pm@gmail.com",
+      "address": "654 Maple St",
+      "company": "Project Experts",
+      "industry": [
+        "Business"
+      ],
+      "jobType": "Permanent",
+      "minEducation": "Masters",
+      "positions": 1,
+      "experience": "5 Years+",
+      "salary": 90000,
+      "user": "6726316e209ae77d34723b04"
+    }
+  ]
+}
